@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rebel_000\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_1600_Zombies_Kale_A.722888166.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rebel_000\Documents\1600_Zombies_Kale_A" t="IncludeRecursive">
+      <e p="1600_Zombies_Kale_A.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AI.cs" t="Include" />
+          <e p="Camera.cs" t="Include" />
+          <e p="Enemies.cs" t="Include" />
+          <e p="FireAmmo.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+          <e p="Weapon_Base.cs" t="Include" />
+          <e p="Zombie_stats.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
