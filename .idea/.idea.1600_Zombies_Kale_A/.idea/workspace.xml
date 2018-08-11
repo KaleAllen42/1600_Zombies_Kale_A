@@ -46,35 +46,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireAmmo.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FireAmmo.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
-                <marker date="1533952135642" expanded="true" signature="6:121" ph="..." />
-                <marker date="1533952135642" expanded="true" signature="160:628" ph="{...}" />
-                <marker date="1533952135642" expanded="true" signature="164:228" ph="/* public List&lt;GameObject&gt; Ammo; ... */" />
-                <marker date="1533952135642" expanded="true" signature="336:391" ph="{...}" />
-                <marker date="1533952135642" expanded="true" signature="419:625" ph="{...}" />
-                <marker date="1533952135642" expanded="true" signature="455:621" ph="{...}" />
+                <marker date="1533953480257" expanded="true" signature="6:121" ph="..." />
+                <marker date="1533953480257" expanded="true" signature="160:665" ph="{...}" />
+                <marker date="1533953480257" expanded="true" signature="164:228" ph="/* public List&lt;GameObject&gt; Ammo; ... */" />
+                <marker date="1533953480257" expanded="true" signature="337:428" ph="{...}" />
+                <marker date="1533953480257" expanded="true" signature="456:662" ph="{...}" />
+                <marker date="1533953480257" expanded="true" signature="492:658" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enemies.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Enemies.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemies.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="345">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
-                <marker date="1533953148401" expanded="true" signature="6:100" ph="..." />
-                <marker date="1533953148401" expanded="true" signature="139:749" ph="{...}" />
-                <marker date="1533953148401" expanded="true" signature="390:510" ph="{...}" />
-                <marker date="1533953148401" expanded="true" signature="531:581" ph="{...}" />
-                <marker date="1533953148401" expanded="true" signature="633:747" ph="{...}" />
-                <marker date="1533953148401" expanded="true" signature="693:743" ph="{...}" />
+                <marker date="1533953398261" expanded="true" signature="6:100" ph="..." />
+                <marker date="1533953398261" expanded="true" signature="139:709" ph="{...}" />
+                <marker date="1533953398261" expanded="true" signature="390:470" ph="{...}" />
+                <marker date="1533953398261" expanded="true" signature="491:541" ph="{...}" />
+                <marker date="1533953398261" expanded="true" signature="593:707" ph="{...}" />
+                <marker date="1533953398261" expanded="true" signature="653:703" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,6 +96,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon_Base.cs" root0="FORCE_HIGHLIGHTING" />
@@ -119,9 +122,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AI.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Weapon_Base.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" />
       </list>
     </option>
   </component>
@@ -134,12 +137,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1920" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -196,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533939949479</updated>
-      <workItem from="1533939957893" duration="10598000" />
+      <workItem from="1533939957893" duration="11160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10598000" />
+    <option name="totallyTimeSpent" value="11160000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,15 +217,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -351,32 +354,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemies.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
-            <marker date="1533952135642" expanded="true" signature="6:121" ph="..." />
-            <marker date="1533952135642" expanded="true" signature="160:628" ph="{...}" />
-            <marker date="1533952135642" expanded="true" signature="164:228" ph="/* public List&lt;GameObject&gt; Ammo; ... */" />
-            <marker date="1533952135642" expanded="true" signature="336:391" ph="{...}" />
-            <marker date="1533952135642" expanded="true" signature="419:625" ph="{...}" />
-            <marker date="1533952135642" expanded="true" signature="455:621" ph="{...}" />
+            <marker date="1533953398261" expanded="true" signature="6:100" ph="..." />
+            <marker date="1533953398261" expanded="true" signature="139:709" ph="{...}" />
+            <marker date="1533953398261" expanded="true" signature="390:470" ph="{...}" />
+            <marker date="1533953398261" expanded="true" signature="491:541" ph="{...}" />
+            <marker date="1533953398261" expanded="true" signature="593:707" ph="{...}" />
+            <marker date="1533953398261" expanded="true" signature="653:703" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemies.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        <state relative-caret-position="420">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
-            <marker date="1533953148401" expanded="true" signature="6:100" ph="..." />
-            <marker date="1533953148401" expanded="true" signature="139:749" ph="{...}" />
-            <marker date="1533953148401" expanded="true" signature="390:510" ph="{...}" />
-            <marker date="1533953148401" expanded="true" signature="531:581" ph="{...}" />
-            <marker date="1533953148401" expanded="true" signature="633:747" ph="{...}" />
-            <marker date="1533953148401" expanded="true" signature="693:743" ph="{...}" />
+            <marker date="1533953480257" expanded="true" signature="6:121" ph="..." />
+            <marker date="1533953480257" expanded="true" signature="160:665" ph="{...}" />
+            <marker date="1533953480257" expanded="true" signature="164:228" ph="/* public List&lt;GameObject&gt; Ammo; ... */" />
+            <marker date="1533953480257" expanded="true" signature="337:428" ph="{...}" />
+            <marker date="1533953480257" expanded="true" signature="456:662" ph="{...}" />
+            <marker date="1533953480257" expanded="true" signature="492:658" ph="{...}" />
           </folding>
         </state>
       </provider>
